@@ -51,5 +51,5 @@ Repository: [ktHuangkt/schedule-linebot](https://github.com/ktHuangkt/schedule-l
 
 ## Contact
 
-- LinkedIn: [Leon Huang](https://www.linkedin.com/in/leon-huang-0910ba266)
+- LinkedIn: [KaiTang Huang](https://www.linkedin.com/in/kaitang-huang-0910ba266)
 - Email: leon96037@gmail.com
