@@ -36,6 +36,14 @@ Personal AI automation prototype that lets users create and manage reminders thr
 
 Repository: [ktHuangkt/schedule-linebot](https://github.com/ktHuangkt/schedule-linebot)
 
+## Competition & Collaboration
+
+### AI CUP Financial QA Retrieval System
+
+Team competition project for financial document retrieval and question answering. The system combined OCR preprocessing, BM25 retrieval, multilingual E5 embeddings, and category-specific retrieval logic for finance, insurance, and FAQ data.
+
+Repository: [Yinnnn94/finance_LLM](https://github.com/Yinnnn94/finance_LLM)
+
 ## Technical Stack
 
 **AI & LLM**: LLM Applications, RAG, Prompt Engineering, OpenAI / Gemini / Groq API  
